@@ -33,7 +33,11 @@
 | SQL • Data Visualization • ML Modeling | HTML • CSS • JavaScript • Java | Algorithms • Systems Design |
 
 </div>
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,react,express,r,flutter,dart,cs,godot,mysql,django,tensorflow,pytorch,figma" />
+  </a>
+</div>
 ---
 
 ## 🌟 Featured Projects
