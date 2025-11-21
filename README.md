@@ -42,7 +42,6 @@
 
 ---
 
-### 📊 GitHub Analytics
 
 <!-- <div align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -57,7 +56,7 @@
 
 ---
 
-### ⚡ Current Focus
+
 <!--
 * 🔭 I’m currently working on a **Data Science Thesis**.
 * 🌱 I’m currently learning **Advanced Deep Learning Architectures**.
