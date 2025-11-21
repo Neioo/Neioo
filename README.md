@@ -41,7 +41,7 @@
 ### 🔹 **Intelligent Attendance System (YOLOv8 + ArcFace)**
 An automated attendance system using YOLOv8 for face detection and ArcFace embeddings for identity recognition.  
 **Tech:** Python, YOLOv8, DeepFace, Streamlit  
-[🔗 *Repo link here*](https://github.com/Neioo/Intelligent-Attendance-Network)
+(https://github.com/Neioo/Intelligent-Attendance-Network)
 
 ---
 
