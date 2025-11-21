@@ -62,6 +62,6 @@
 * 🎮 Fun fact: I build games in Godot when I'm not analyzing data! -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,react,express,r,flutter,dart,cs,godot,mysql,django,tensorflow,pytorch,oracle,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,react,express,r,flutter,dart,cs,godot,mysql,django,tensorflow,pytorch,figma" />
   </a>
 </div>
