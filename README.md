@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"/>
@@ -53,12 +53,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
 ### ⚡ Current Focus
-
+<!--
 * 🔭 I’m currently working on a **Data Science Thesis**.
 * 🌱 I’m currently learning **Advanced Deep Learning Architectures**.
-* 🎮 Fun fact: I build games in Godot when I'm not analyzing data!
+* 🎮 Fun fact: I build games in Godot when I'm not analyzing data! -->
