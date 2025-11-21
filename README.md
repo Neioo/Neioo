@@ -1,67 +1,92 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+a+Data+Scientist;And+a+Full-Stack+Developer;I+Build+Intelligent+Systems;I+Make+Games+with+Godot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neo+Jezer+Pare;Data+Scientist+%26+Software+Developer;Building+AI+Systems+%26+End-to-End+Apps;Creating+Experiences+Through+Code" />
 
-  <h3>🚀 Transforming Data into Actionable Insights & Code into Reality</h3>
-  
+  <h3>🚀 Data Scientist & Software Developer focused on AI, Automation, and Intelligent Systems</h3>
+
   <p>
-     I am a <b>Computer Science Senior</b> specializing in <b>Data Science</b>. 
-     <br>
-     From analyzing complex datasets to building cross-platform apps and games, I love solving problems across the full technology stack.
+    I'm a <b>Computer Science Senior</b> specializing in <b>Data Science & AI</b>.  
+    I build end-to-end solutions—from machine learning systems and analytical dashboards  
+    to full-stack apps and games using Godot.
   </p>
 
   <p>
-    <a href="www.linkedin.com/in/neo-jezer-pare" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a> 
-    <a href="mailto:pare.neojezer@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://www.linkedin.com/in/neo-jezer-pare" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <!-- <a href="https://YOUR_PORTFOLIO_URL.com">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-    </a> -->
+    <a href="mailto:pare.neojezer@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Data Science & AI** | **App & Web Development** | **Game Dev & Core** |
+| **AI / Data Science** | **Software Development** | **Game Dev** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat-square&logo=godot-engine&logoColor=white) |
-| ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=black) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Pandas / NumPy** | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) | ![GDScript](https://img.shields.io/badge/GDScript-478cbf?style=flat-square&logo=godot-engine&logoColor=white) |
-| **Machine Learning** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | **Algorithms** |
+| Python • NumPy • Pandas • Scikit-learn • TensorFlow • Power BI | Flutter • Dart • React • Node.js • Express | Godot Engine • GDScript • C# |
+| SQL • Data Visualization • ML Modeling | HTML • CSS • JavaScript • Java | Algorithms • Systems Design |
 
 </div>
 
 ---
 
+## 🌟 Featured Projects
 
-<!-- <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"/>
-  </a>
+### 🔹 **Intelligent Attendance System (YOLOv8 + ArcFace)**
+An automated attendance system using YOLOv8 for face detection and ArcFace embeddings for identity recognition.  
+**Tech:** Python, OpenCV, YOLOv8, DeepFace, Streamlit  
+🔗 *Repo link here*
+
+---
+
+### 🔹 **PyBrowser — A Simple Python Web Browser**
+A custom lightweight web browser built with Python.  
+**Tech:** Python, PyQt5  
+🔗 *Repo link here*
+
+---
+
+### 🔹 **Anilytics — Power BI Analytics Dashboard**
+An end-to-end analytical dashboard providing insights and automated reporting.  
+**Tech:** Power BI, SQL  
+🔗 *Repo link here*
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
+
+## 💬 About Me
+
+- 🎯 Passionate about **AI, automation, and problem-solving**
+- 📊 Enjoy turning data into decisions  
+- 🧠 Love building intelligent and interactive systems  
+- 🎮 Game dev hobbyist (Godot Engine)  
+- 💼 Open to **internships & collaborations** in AI, Data Science, and Software Engineering  
+
+---
+
+## 📫 Contact Me
+📧 **Email:** pare.neojezer@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/neo-jezer-pare
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div> -->
-
-
-
-<!--
-* 🔭 I’m currently working on a **Data Science Thesis**.
-* 🌱 I’m currently learning **Advanced Deep Learning Architectures**.
-* 🎮 Fun fact: I build games in Godot when I'm not analyzing data! -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,react,express,r,flutter,dart,cs,godot,mysql,django,tensorflow,pytorch,figma" />
-  </a>
+  <sub>✨ Always learning, always building.</sub>
 </div>
