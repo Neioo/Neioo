@@ -40,34 +40,21 @@
 
 ### 🔹 **Intelligent Attendance System (YOLOv8 + ArcFace)**
 An automated attendance system using YOLOv8 for face detection and ArcFace embeddings for identity recognition.  
-**Tech:** Python, OpenCV, YOLOv8, DeepFace, Streamlit  
-🔗 *Repo link here*
+**Tech:** Python, YOLOv8, DeepFace, Streamlit  
+[🔗 *Repo link here*](https://github.com/Neioo/Intelligent-Attendance-Network)
 
 ---
 
 ### 🔹 **PyBrowser — A Simple Python Web Browser**
 A custom lightweight web browser built with Python.  
 **Tech:** Python, PyQt5  
-🔗 *Repo link here*
-
+https://github.com/Neioo/PyBrowser
 ---
 
 ### 🔹 **Anilytics — Power BI Analytics Dashboard**
 An end-to-end analytical dashboard providing insights and automated reporting.  
 **Tech:** Power BI, SQL  
-🔗 *Repo link here*
-
----
-
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+https://app.powerbi.com/links/g8NZPGTDXi?ctid=89a64acf-4e6e-493c-8bd5-64e9527e5296&pbi_source=linkShare&bookmarkGuid=b5d8aa5b-3880-49c5-9fbd-458bd32cee08
 
 ---
 
